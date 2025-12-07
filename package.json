@@ -34,7 +34,7 @@
     "mongoose": "^6.3.5",
     "mongoose-unique-validator": "^3.0.0",
     "node-fetch": "^2.6.7",
-    "nodemailer": "^6.7.2",
+    "nodemailer": "^7.0.11",
     "passport": "^0.5.2",
     "passport-discord": "^0.1.4",
     "passport-local": "^1.0.0",
